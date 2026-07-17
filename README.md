@@ -34,14 +34,19 @@ Step 1 Dissassembly
 To access the main PCB we have to dissassemble our Obboto,
 To open the device locate the 4 rubber feet on the bottom of the device and remove them carefully, if done right the glue should stick to the feet so these can be used again after reassembly.
 
-(Insert pic 1)
+<img width="3265" height="2449" alt="L16_00028" src="https://github.com/user-attachments/assets/d3990a1d-309d-4bed-8dae-d791462f4f6b" />
+
 
 Now remove the 4 screws located under the rubber feet.
+
+<img width="3265" height="2449" alt="L16_00029" src="https://github.com/user-attachments/assets/c4ededa9-b409-48ec-ba54-2349c901f4c3" />
+
 
 You should now be able to twist the base to remove it, after the base is twisted it should easily lift off.
 Be carefull there are wires connected to the base.
 
-(Insert Pic 2)
+<img width="3265" height="2449" alt="L16_00030" src="https://github.com/user-attachments/assets/4b02a2cf-42be-4c3e-9900-44faa099c125" />
+
 
 Disconnect the following connectors from the main PCB
 POWER
@@ -54,13 +59,22 @@ and the wifi antenna
 
 You should now be able to remove the base entirely from the sphere.
 
+<img width="3265" height="2449" alt="L16_00031" src="https://github.com/user-attachments/assets/0999c72d-a31b-4ef9-a795-4f06a0b85704" />
+
+
 Disconnect the remaining connectors from the PCB and loosen the 4 silver screws holding the PCB in place.
+
+<img width="3265" height="2449" alt="L16_00032" src="https://github.com/user-attachments/assets/99dd29a1-cf70-4aa0-8bdb-f53dda27e60f" />
+
 
 Now remove the PCB form the sphere, this can be a bit finnicky because of the many wires.
 
 You should now have access to the entire PCB.
 
-(Insert Pic 3)
+<img width="3265" height="2449" alt="L16_00034" src="https://github.com/user-attachments/assets/e6b16efb-4b44-4d26-b9b6-297dea5651c6" />
+
+<img width="3265" height="2449" alt="L16_00033" src="https://github.com/user-attachments/assets/bd8cd761-dd99-4e77-ae26-7e75b567cf9d" />
+
 
 
 
@@ -71,7 +85,8 @@ Locate the Debug header holes on the PCB
 
 Solder 6 of the breadboard pins to the empty DEBUG header facing up as shown in the following picture.
 
-(Insert Pic 4)
+<img width="3265" height="2449" alt="L16_00035" src="https://github.com/user-attachments/assets/c40c6520-9651-4fa5-91df-95ddd054bc7a" />
+
 
 
 
@@ -79,6 +94,8 @@ Solder 6 of the breadboard pins to the empty DEBUG header facing up as shown in 
 Step 3 Connecting using ESPprog and Making a backup.
 
 Now connect 6 breadboard wires from the Program header of the ESP Prog to the Debug Header.
+
+<img width="3265" height="2449" alt="L16_00036" src="https://github.com/user-attachments/assets/5eac7d1e-1906-4760-b60a-3c0d4ff95d29" />
 
 <img width="522" height="448" alt="image" src="https://github.com/user-attachments/assets/ef5af40e-ab78-4053-a702-1441a38c0b91" />
 
